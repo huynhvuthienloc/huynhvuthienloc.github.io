@@ -6,7 +6,7 @@ url: "https://huynhvuthienloc.github.io/" # the base hostname & protocol for you
 theme:
   # Meta
   title: Huỳnh Vũ Thiên Lộc
-  avatar: avatar.png
+  avatar: http://s21.postimg.org/yzc62bc7b/12049516_173099263027037_776097899605201422_n.jpg
   gravatar: # Email MD5 hash
   description: "Huỳnh Vũ Thiên Lộc" # used by search engines
 
